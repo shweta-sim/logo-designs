@@ -1,5 +1,4 @@
-# logo-designs
-Logo Designs
+# Logo Designs
 
 ![23](https://user-images.githubusercontent.com/54796542/70141440-5f1f9700-1697-11ea-860d-a8dfdfd7eb39.jpg)
 
